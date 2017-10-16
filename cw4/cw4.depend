@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1508167242 source:d:\krzysztofsokolowski\cw4\cw4\cw4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdexcept>
+	<vector>
+	<sstream>
+
