@@ -31,4 +31,3 @@ s1.zapis ("nazwa.csv");
 
 return 0;
 }
-
