@@ -1,9 +1,23 @@
 # depslib dependency file v1.0
-1508167242 source:d:\krzysztofsokolowski\cw4\cw4\cw4\main.cpp
+1508769157 source:d:\krzysztofsokolowski\cw4\cw4\cw4\main.cpp
+	<iostream>
+	"probka.hpp"
+	"sygnal.hpp"
+
+1508769001 d:\krzysztofsokolowski\cw4\cw4\cw4\probka.hpp
+
+1508769001 d:\krzysztofsokolowski\cw4\cw4\cw4\sygnal.hpp
+	<vector>
+	"probka.hpp"
+	<string>
+
+1508769001 source:d:\krzysztofsokolowski\cw4\cw4\cw4\probka.cpp
+	"probka.hpp"
+
+1508769001 source:d:\krzysztofsokolowski\cw4\cw4\cw4\sygnal.cpp
+	"sygnal.hpp"
 	<iostream>
 	<fstream>
 	<string>
-	<stdexcept>
-	<vector>
 	<sstream>
 
